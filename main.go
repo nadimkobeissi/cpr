@@ -12,8 +12,11 @@ import (
 	"time"
 )
 
+const version = "1.1"
+
 func main() {
 	rootCmd := &cobra.Command{
+		Version: version,
 		Use:     "cpr [file] [destination]",
 		Example: "cpr myMovie.mp4 /Volumes/NAS/Movies/myMovie.mp4",
 		Short:   "Copy a file",
