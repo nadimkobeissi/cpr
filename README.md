@@ -10,7 +10,7 @@ For example:
 
 ```
 ~ ❱ cpr /Users/nadim/Movies/Soul/Soul.mkv soul2.mkv
-16% • 2.9GB/17.4GB • 0min remaining
+16% • 2.9GB/17.4GB • 1min17sec
 ```
 
 [View incredible demo video](https://twitter.com/kaepora/status/1373569417624309760)
