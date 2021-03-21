@@ -1,0 +1,8 @@
+.DS_Store
+cpr
+cpr.exe
+cpr_applesilicon
+build/windows/cp*
+build/linux/cp*
+build/macos/cp*
+build/freebsd/cp*
